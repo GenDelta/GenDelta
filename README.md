@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gendelta&label=Profile%20views&color=0e75b6&style=flat" alt="gendelta" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and C++**
 
 - 📫 How to reach me **ankush.dutta.0710@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankushdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankushdutta" height="30" width="40" /></a>
+<a href="https://kaggle.com/ankushduttasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankushduttasit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankush_dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankush_dutta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankushdutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankushdutta" height="30" width="40" /></a>
 </p>
@@ -20,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gendelta&show_icons=true&locale=en&layout=compact" alt="gendelta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gendelta&show_icons=true&locale=en" alt="gendelta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gendelta&" alt="gendelta" /></p>
